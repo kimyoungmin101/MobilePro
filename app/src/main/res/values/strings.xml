@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project_TestActivity</string>
+    <string name ="activity_main">로그인</string>
+
+    <string name="prompt_email">이메일</string>
+    <string name="prompt_password">비밀번호</string>
+    <string name="action_sign_in">로그인</string>
+    <string name="action_sign_up">패스워드</string>
+</resources>
